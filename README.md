@@ -1,2 +1,5 @@
-# Flappy-bird
-Python project for a Flappy Bird clone using Pygame
+<h1 align="center" id="title">Flappy Bird</h1>
+
+<p id="description">This is a Python script implementing a simplified version of the classic game Flappy Bird using the Pygame library. The game also includes collision detection score counting and sound effects for various events like scoring points hitting obstacles and game over.</p>
+<p id="project screenshot">
+<img align="left" width="250" alt="img"   src="fpss.PNG">
